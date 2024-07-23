@@ -1,0 +1,35 @@
+body {
+    height: 100vh;
+    margin: 20px 20px;
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    background-color: #4ade80;
+    border-radius: 20px;
+    padding: 40px;
+    max-width: 600px;
+    width: 76%;
+}
+
+h1 {
+    font-size: 50px;
+    color: #000000;
+}
+
+p {
+    margin-bottom: 40px;
+    font-size: 20px;
+    color: #000000;
+}
+
+button {
+    background-color: #ffffff;
+    border: none;
+    border-radius: 30px;
+    padding: 15px 50px;
+    font-size: 20px;
+    color: black;
+    font-weight: 600;
+}
